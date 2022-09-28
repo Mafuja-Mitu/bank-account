@@ -1,1 +1,1 @@
-# banki-account
+# bank-account
